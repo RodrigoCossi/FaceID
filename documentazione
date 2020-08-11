@@ -6,7 +6,8 @@
     
     requisiti:
     instalazione libreria face-api.js (via npm or github clone. add links here)
-    visual studio code per edizione di codice html e javascript.
+    visual studio code per edizione di codice html css e javascript.
+    istalazione di Git per il controllo di versione.
     istalazione del puglin LiveServer per visual studio, per permetere l'esecuzione del programa in tempo reale sul browser.
     un repositorio per il progetto (github o node.js) per permettere di caricare online i contenuti multimediali (foto, video) consumati dal programma. 
     
