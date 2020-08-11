@@ -1,0 +1,18 @@
+    i requisiti per il sistema da sviluppare
+    il progetto del sistema
+    il piano di test per il sistema
+    il rapporto sull'andamento dei test
+    
+    
+    requisiti:
+    instalazione libreria face-api.js (via npm or github clone. add links here)
+    visual studio code per edizione di codice html e javascript.
+    istalazione del puglin LiveServer per visual studio, per permetere l'esecuzione del programa in tempo reale sul browser.
+    un repositorio per il progetto (github o node.js) per permettere di caricare online i contenuti multimediali (foto, video) consumati dal programma. 
+    
+    
+    il progetto:
+    (descrizione del progetto. principali componenti. schema uml)
+    
+    test:
+    (breve descrizione dei test, problemi trovati e training di riconoscimento facciale)
