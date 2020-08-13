@@ -6,6 +6,7 @@
     
     requisiti:
     instalazione libreria face-api.js (via npm or github clone. add links here)
+    instalazione JQuery CDN (link) 
     visual studio code per edizione di codice html css e javascript.
     istalazione di Git per il controllo di versione.
     istalazione del puglin LiveServer per visual studio, che permette l'esecuzione del programa sul browser.
