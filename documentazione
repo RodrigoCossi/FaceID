@@ -5,11 +5,11 @@
     
     
     requisiti:
-    instalazione libreria face-api.js (via npm or github clone. add links here)
+    instalazione libreria face-api.js (via npm or github clone. add links here) pq eu tenho so face-api.min e models?
+    instalazione JQuery CDN (link) 
     visual studio code per edizione di codice html css e javascript.
-    istalazione di Git per il controllo di versione.
-    istalazione del puglin LiveServer per visual studio, che permette l'esecuzione del programa sul browser.
-    un repositorio per il progetto (github) per permettere di caricare online i contenuti multimediali (foto, video) consumati dal programma. 
+    istalazione di Git per il controllo di versione.(optional)
+    istalazione del puglin LiveServer per visual studio, che permette l'esecuzione del programa sul browser.(nel progetto c'è una cartella .vscode che contiene parametri di configurazioni del server. Pero il Default va piu che bene)
     
     
     il progetto:
