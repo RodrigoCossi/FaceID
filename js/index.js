@@ -51,9 +51,6 @@ function loadLabeledImages() {
   var div = document.createElement("div");
   div.className += 'loader-wrapper';
   div.innerHTML += '<div class="loader"></div><br>';
-  // div.innerHTML +='<p>Loading Dataset and Creating Face Vector Models...</p>';
-  // div.innerHTML +='<p>Loading Models, Fetching Images and Detecting Single Faces...</p>';
-  // div.innerHTML +='<p>Loading Dataset and Training Models...</p>';
   div.innerHTML +='<p>Loading Dataset and Creating Face Descriptors...</p>';
   document.body.appendChild(div);
   const labels = ['Chandler', 'Joey', 'Monica', 'Phoebe','Rachel', 'Ross']
