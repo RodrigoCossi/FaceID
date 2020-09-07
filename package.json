@@ -1,0 +1,23 @@
+{
+  "name": "progetto-IDS",
+  "version": "1.0.0",
+  "description": "progetto finale polimi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoCossi/progetto-IDS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoCossi/progetto-IDS/issues"
+  },
+  "homepage": "https://github.com/RodrigoCossi/progetto-IDS#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
