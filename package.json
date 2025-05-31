@@ -1,22 +1,22 @@
 {
-  "name": "progetto-ids",
+  "name": "face-id",
   "version": "1.0.0",
-  "description": "progetto finale polimi",
+  "description": "facial recognition app",
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RodrigoCossi/progetto-IDS.git"
+    "url": "git+https://github.com/RodrigoCossi/Face-ID.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RodrigoCossi/progetto-IDS/issues"
+    "url": "https://github.com/RodrigoCossi/FaceID/issues"
   },
-  "homepage": "https://github.com/RodrigoCossi/progetto-IDS#readme",
+  "homepage": "https://github.com/RodrigoCossi/FaceID#readme",
   "devDependencies": {
     "jest": "^26.4.2"
   },
