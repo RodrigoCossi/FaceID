@@ -1,6 +1,6 @@
-# progetto-IDS
-progetto finale polimi
+# FaceID - Facial Detection and Identification
 
-Rodrigo Cossi 917138
+[user-manual.pdf](user-manual.pdf) contains all the instructions on the operation and execution of the project
 
-documentazione.pdf contiene tutte le istruzioni sul funzionamento ed esecuzione del progetto
+<br/>
+Rodrigo Cossi
