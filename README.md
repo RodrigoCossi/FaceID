@@ -4,7 +4,8 @@
 
 </br><b>Sample Usage</b></br>
 
-![image](https://github.com/user-attachments/assets/e8483a2e-0b9d-486a-87b5-073563fe6463)
+<img width="1034" height="601" alt="449513365-e8483a2e-0b9d-486a-87b5-073563fe6463" src="https://github.com/user-attachments/assets/d61518bf-065a-4927-b3d3-664c253ff35c" />
+
 
 <br>
 
